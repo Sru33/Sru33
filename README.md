@@ -2,7 +2,7 @@
 - 👀 I’m interested in knowing github
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on c++ application
-- 📫 How to reach me on github
+- 📫 Sru33
 
 <!---
 Sru33/Sru33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
