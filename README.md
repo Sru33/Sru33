@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sru33
-- 👀 I’m interested in knowing github
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on kotlin application
+- 👀 I’m interested in knowing git
+- 💞️ I’m looking to collaborate on application development
 - 📫 Sru33
 
 <!---
